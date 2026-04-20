@@ -33,7 +33,7 @@ Connect with me on social media:
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
-git clone https://github.com/iamsamkhan/FastAPI-Project.git
+# git clone https://github.com/iamsamkhan/FastAPI-Project.git
 
 # FastAPI Project
 
@@ -69,9 +69,9 @@ git push
 - REST API
 - Async support
 
-**Documentation**: <a href="https://fastapi-users.github.io/fastapi-users/" target="_blank">https://fastapi-users.github.io/FastAPI-Project/</a>
+**Documentation**: <a href="https://fastapi-users.github.io/FastAPProject/" target="_blank">https://fastapi-users.github.io/FastAPI-Project/</a>
 
-**Source Code**: <a href="https://github.com/iamsamkhan/FastAPI-Project.git" target="_blank">https://github.com/FastAPI-Project/fastapi-user</a>
+**Source Code**: <a href="https://github.com/iamsamkhan/FastAPProject-.git" target="_blank">https://github.com/FastAPI-Project/fastapi-user</a>
 
 ---
 
